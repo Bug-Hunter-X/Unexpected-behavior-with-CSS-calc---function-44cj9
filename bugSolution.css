@@ -1,0 +1,14 @@
+/* bugSolution.css */
+#element {
+  width: calc(100% - 20px);
+}
+
+/* Correct spacing and proper unit handling */
+#anotherElement {
+  height: calc(50vh - 10px);
+}
+
+/* Using parentheses for clarity and operator precedence */
+#complexElement {
+  margin: calc((100vw - 200px) / 2);
+} 
